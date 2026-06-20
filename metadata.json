@@ -1,0 +1,6 @@
+{
+  "name": "Smart To-Do Workspace",
+  "description": "A production-ready task and productivity SaaS platform with collaborative Kanban boards, calendar scheduling, automated activity logs, document/report exports, and advanced server-side Gemini AI features such as priority reasoning, task breakdowns, and deadline risk predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
